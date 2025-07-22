@@ -1,6 +1,6 @@
 # The WPCC Community Group: The Sustainability Team
 
-The Sustainability Team is a community group hosted by The WP Community Collective. It is focused on advancing environmental stewardship in the WordPress open source ecosystem.
+The Sustainability Team is a community group hosted by The WP Community Collective, focused on advancing environmental stewardship in the WordPress open source ecosystem.
 
 This group brings together contributors, community organizers, and allies who are committed to building systems, structures, and partnerships that support sustainable ecological practices.
 
